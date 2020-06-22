@@ -1,0 +1,26 @@
+body {
+  background-color: aquamarine;
+  }
+.error {
+  background-color: #55FF33;
+  padding: 1rem;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+
+}
+.resultado {
+  color: rgb(255, 255, 255);
+}
+.resultado h2 {
+  font-weight: bold;
+  color: white;
+}
+.resultado p {
+  font-size: 18px!important;
+}
+.resultado p span {
+  font-weight: bold;
+}
